@@ -13,6 +13,8 @@ namespace ct
         {
             Console.WriteLine("t1");
             Console.WriteLine("c000");
+            Console.WriteLine("D1");
+            Console.WriteLine("cc1111111");
         }
     }
 }
