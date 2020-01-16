@@ -11,7 +11,8 @@ namespace ct
         }
         static void print1()
         {
-            Console.WriteLine("cc");
+            Console.WriteLine("t1");
+            Console.WriteLine("c000");
         }
     }
 }
